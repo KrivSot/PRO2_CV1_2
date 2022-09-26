@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="391c5ae8-5982-49ae-b3fe-4f3c1338f131" name="Changes" comment="1.0">
-      <change afterPath="$PROJECT_DIR$/src/models/Pair.java" afterDir="false" />
+    <list default="true" id="391c5ae8-5982-49ae-b3fe-4f3c1338f131" name="Changes" comment="1.01">
+      <change afterPath="$PROJECT_DIR$/src/models/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/dataSaver/DataSaver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/dataSaver/FileDataSaver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/dataSaver/MemoryDataSaver.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -14,6 +18,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -37,8 +42,8 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
   <component name="RunManager">
@@ -63,7 +68,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1664182594992</updated>
-      <workItem from="1664182596261" duration="1811000" />
+      <workItem from="1664182596261" duration="3376000" />
     </task>
     <task id="LOCAL-00001" summary="1.0">
       <created>1664184061393</created>
@@ -72,7 +77,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664184061393</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="1.01">
+      <created>1664184439942</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1664184439942</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,6 +103,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1.0" />
-    <option name="LAST_COMMIT_MESSAGE" value="1.0" />
+    <MESSAGE value="1.01" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.01" />
   </component>
 </project>
